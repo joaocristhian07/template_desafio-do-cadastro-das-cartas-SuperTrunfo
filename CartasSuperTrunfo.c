@@ -15,6 +15,7 @@ int main() {
   int pontos_turísticos;
 // Área para entrada de dados
 //carta1
+
   printf("dados da primeira Carta\n");
   printf(" - digite seu estado: \n");
   scanf(" %c", &estado);
